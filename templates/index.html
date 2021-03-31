@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>NLP SMS Spam Detection</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+	<link rel="icon" type="image/png" href="static/images/icons/favicon.ico"/>
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="static/vendor/bootstrap/css/bootstrap.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="static/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="static/fonts/iconic/css/material-design-iconic-font.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="static/vendor/animate/animate.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="static/vendor/css-hamburgers/hamburgers.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="static/vendor/animsition/css/animsition.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="static/vendor/select2/select2.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="static/vendor/daterangepicker/daterangepicker.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="static/css/util.css">
+	<link rel="stylesheet" type="text/css" href="static/css/main.css">
+<!--===============================================================================================-->
+
+<style>
+.contact100-form-title {
+  font-family:'Caveat', cursive;
+  font-size:34px;
+}
+
+textarea {
+        overflow-y: scroll;
+        height: 100px;
+		wrap:off;
+		overflow:hidden;
+		cols="50";
+		rows="5";  
+}
+
+</style>
+</head>
+<body>
+	<div class="container-contact100">
+		<div class="wrap-contact100">
+			<form action="{{ url_for('predict')}}" method="post" class="contact100-form validate-form">
+				<span class="contact100-form-title">
+					NLP SMS Spam Detection
+				</span>
+
+				<label class="label-input100" for="message" style = "font-family: 'Lexend'; font-size:23px; font-weight:bold;">SMS</label>
+				<div class="wrap-input100 validate-input">
+					<textarea id="SMS" class="input100" required = required name="SMS" placeholder="Type your message here..."></textarea>
+					<span class="focus-input100"></span>
+				</div>
+				
+				<div class="container-contact100-form-btn">
+					<button class="contact100-form-btn">
+						<span>
+							Predict
+							<i class="zmdi zmdi-arrow-right m-l-8"></i>
+						</span>
+					</button><br><br><br>
+				</div>
+				
+				<div class="reachme">
+				<p style = "font-family: 'Lexend'; font-size:18px;">Reach me at - </p>
+				<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="tejas-ta"><a class="LI-simple-link" href='https://in.linkedin.com/in/tejas-ta?trk=profile-badge'>Tejas T A</a></div>
+				</div>
+				
+				<div>
+				<br><br><br><br>
+				<p style = "font-family: 'Lexend'; font-size:24px;">Email - tejasta@gmail.com</p>
+				</div>
+				
+			</form>
+		</div>
+	</div>
+<!--===============================================================================================-->
+	<script src="static/vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+	<script src="static/vendor/animsition/js/animsition.min.js"></script>
+<!--===============================================================================================-->
+	<script src="static/vendor/bootstrap/js/popper.js"></script>
+	<script src="static/vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script src="static/vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+	<script src="static/vendor/daterangepicker/moment.min.js"></script>
+	<script src="static/vendor/daterangepicker/daterangepicker.js"></script>
+<!--===============================================================================================-->
+	<script src="static/vendor/countdowntime/countdowntime.js"></script>
+<!--===============================================================================================-->
+	<script src="static/js/main.js"></script>
+<!--===============================================================================================-->
+	<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-23581568-13');
+</script>
+
+</body>
+</html>
