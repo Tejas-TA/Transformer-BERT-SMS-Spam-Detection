@@ -39,7 +39,7 @@
 9. Exported model using joblib library<br>
 10. Developed Front End <br>
 11. Created a flask server and deployed the code<br>
-12. API working successfully<br>
+12. API working successfully<hr>
     
 LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>           
 Email - tejasta@gmail.com <br>
