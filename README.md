@@ -40,7 +40,7 @@
 10. Developed Front End <br>
 11. Created a flask server and deployed the code<br>
 12. API working successfully<hr>
-    
-LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>           
+         
 Email - tejasta@gmail.com <br>
+LinkedIn - https://www.linkedin.com/in/tejas-ta/ 
 Blogs - https://tejasta.medium.com/ <hr>
