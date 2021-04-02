@@ -1,12 +1,12 @@
 ### Natural Language Processing / SMS Spam Detection
 
 <b>Google Cloud Platform</b> - https://nlp-sms-spam-detection.wm.r.appspot.com/ <br>
-<b>Heroku</b> - https://spam-sms-detect-nlp.herokuapp.com/ <br>
+<b>Heroku</b> - https://spam-sms-detect-nlp.herokuapp.com/ 
 
 <img src="https://github.com/Tejas-TA/NLP-SMS-Spam-Detection/blob/main/SMS%20NLP.gif" width = "100%" height="100%">
 <hr>
 
-<h3>Dataset</h3> https://www.kaggle.com/uciml/sms-spam-collection-dataset <br><hr>
+<h3>Dataset</h3> https://www.kaggle.com/uciml/sms-spam-collection-dataset <hr>
 
 <h3>Libraries Used</h3>
 1. Flask<br>
@@ -25,7 +25,7 @@
 14. HTML<br>
 15. CSS<br>
 16. Bootstrap<br>
-17. JavaScript<br><hr>
+17. JavaScript<hr>
 
 <h3>Project Walkthrough</h3>
 1. Exploratory Data Analysis(EDA)<br>
