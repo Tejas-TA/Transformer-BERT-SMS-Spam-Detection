@@ -42,5 +42,5 @@
 12. API working successfully<hr>
          
 Email - tejasta@gmail.com <br>
-LinkedIn - https://www.linkedin.com/in/tejas-ta/ 
+LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>
 Blogs - https://tejasta.medium.com/ <hr>
