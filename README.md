@@ -43,8 +43,12 @@
 <hr>
     
 LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>
+
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="tejas-ta" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/tejas-ta?trk=profile-badge">Tejas T A</a></div>
-              
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="tejas-ta" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/tejas-ta?trk=profile-badge">Tejas T A</a>
+</div>
+            
 Email - tejasta@gmail.com <br>
 Blogs - https://tejasta.medium.com/ <hr>
