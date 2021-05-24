@@ -1,4 +1,4 @@
-### Natural Language Processing / SMS Spam Detection
+### Transformer BERT SMS Spam Detection
 
 <b>Google Cloud Platform</b> - https://nlp-sms-spam-detection.wm.r.appspot.com/ <br>
 <b>Heroku</b> - https://spam-sms-detect-nlp.herokuapp.com/ 
