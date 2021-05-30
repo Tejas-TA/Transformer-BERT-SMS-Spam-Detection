@@ -1,4 +1,4 @@
-### Transformer BERT SMS Spam Detection
+### Transformer BERT SMS Spam Detection <hr>
 
 <b>Google Cloud Platform</b> - https://nlp-sms-spam-detection.wm.r.appspot.com/ <br>
 <b>Heroku</b> - https://spam-sms-detect-nlp.herokuapp.com/ 
@@ -39,9 +39,11 @@
 7. Implemented TF|IDF <br>
 8. Model Building - Used Multinomial Naive Bayes and Light GBM Classifier. Achieved <b>95% F1 Score</b> with Multinomial Naive Bayes<br>
 9. Exported Multinomial Naive Bayes Classifier model using Joblib library<br>
-10. Developed Front End <br>
-11. Created a flask server and deployed the code<br>
-12. API working successfully<hr>
+10. Implemented DistilBERT - a huggingface transformer model 
+11. FIne Tuned DistilBERT
+12. Developed Front End <br>
+13. Created a flask server and deployed the code<br>
+14. API working successfully<hr>
          
 Email - tejasta@gmail.com <br>
 LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>
