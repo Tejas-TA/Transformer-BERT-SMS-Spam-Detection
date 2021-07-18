@@ -39,7 +39,7 @@
 7. Implemented TF | IDF <br>
 8. Model Building - Used Multinomial Naive Bayes and Light GBM Classifier. Achieved <b>94% F1 Score</b> after hyperparameter tuning with Multinomial Naive Bayes<br>
 9. Exported Multinomial Naive Bayes Classifier model using Joblib library<br>
-10. Implemented DistilBERT - a huggingface transformer model <br>
+10. Implemented DistilBERT - a hugging face transformer model <br>
 11. Fine Tuned DistilBERT<br>
 12. Developed Front End <br>
 13. Created a flask server and deployed the code<br>
