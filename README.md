@@ -43,7 +43,7 @@
 11. Fine Tuned DistilBERT<br>
 12. Developed Front End <br>
 13. Created a flask server and deployed the code<br>
-14. Web-app working successfully<hr>
+14. Web-app working successfully in Google Cloud Platform and Heroku<hr>
          
 Email - tejasta@gmail.com <br>
 LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>
